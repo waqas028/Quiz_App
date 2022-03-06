@@ -9,6 +9,7 @@ public class Result_Activity extends AppCompatActivity {
 
     TextView tv, tv2, tv3;
     Button btnRestart;
+    //nnnn
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
