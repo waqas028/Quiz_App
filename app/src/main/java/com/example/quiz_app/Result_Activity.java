@@ -30,6 +30,7 @@ public class Result_Activity extends AppCompatActivity {
         tv2.setText(sb2);
         tv3.setText(sb3);
 //what the new commmit
+        //2nd new commit
         Question_Activity.correct=0;
         Question_Activity.wrong=0;
     }
